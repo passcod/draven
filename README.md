@@ -28,6 +28,10 @@ scenario around this, Issue Requests simply _expire_ after a configurable time.
 You don't need to do anything. It saves not only time, but cognitive burden.
 For the others waiting around the issue, it also brings certainty.
 
+It does so while being very clear about what's happening and when, without
+needing to read or remember specific policies, and without needing humans to
+_action_ the automatic parts of those policies.
+
 ## The specific idea
 
 Draven is to be a bot that answers to a specific, terse, unambiguous, and
