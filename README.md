@@ -1,3 +1,5 @@
+_This is an idea, and I'm seeking feedback on it. If you like it, or if you have feedback, tell me about it! Star this repo, [tweet at me](https://twitter.com/passcod), [email me](mailto:felix@passcod.name). Thank you!_
+
 # Draven
 
 A Github command bot, à la [bors], but for requesting, taking, and managing
