@@ -125,6 +125,25 @@ with `req!enable` or by removing the tag.
 An issue is also unavailable if there is someone already on the Github-assign
 list. And of course an issue would not be double-requestable.
 
+## Audience and motivation
+
+Draven is aimed at many sizes of projects. I think it could work well with the
+size of projects I'm currently involved with, which is anywhere from a single
+maintainer and a dozen contributors a year, to three or four
+maintainers/regulars and fifty PRs a year. While I don't have much experience
+there, I think it could also work well at higher volumes.
+
+However, Draven is a tool that's more aimed at helping maintainers of _many
+projects_. If I implement it, I would enable it on _all_ projects I maintain,
+because I think it would greatly help to reduce _overall_ burden on
+maintainers, and not just as a project-level aid.
+
+This document and thoughts around it stem both from my own experiences and
+frustrations running my projects, my own experiences and frustrations
+interacting with others' projects, and others' (often figures in the Node.js
+and npm communities) experiences and frustrations running and interacting with
+projects.
+
 ## Configuration
 
 While all the durations and details would be defaulted to something sensible,
